@@ -1,0 +1,6 @@
+= certificates
+:hardbreaks-option:
+:source-highlighter: highlightjs
+:source-language: shell
+
+available at http://danisvaliev001.github.io/certificates
