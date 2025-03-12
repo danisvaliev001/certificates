@@ -1,0 +1,38 @@
+@use "bulma/sass/grid/columns";
+
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&display=swap");
+body {
+  font-family: "JetBrains Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+@media print {
+  a[href]:after {
+    content: none !important;
+  }
+  .is-hidden-print {
+    display: none !important;
+  }
+}
+img[src^="assets/docs/"] {
+  height: 80%;
+  width: auto;
+  box-shadow: 0px 3px 9px rgba(0, 0, 0, 0.1);
+}
+.fullheight-slide {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5%;
+  overflow: hidden;
+}
+a .certificate-title {
+  text-decoration: underline;
+}
+.title-container {
+  margin-bottom: 1.5rem;
+}
