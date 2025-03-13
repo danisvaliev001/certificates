@@ -3,4 +3,4 @@
 :source-highlighter: highlightjs
 :source-language: shell
 
-available at https://danisvaliev001.github.io/certificates
+Printable web page with my certificates for my https://www.linkedin.com/in/danisvaliev001[CV on LinkedIn].
