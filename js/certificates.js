@@ -20,7 +20,7 @@ const certificates = [
     url: null,
   },
   {
-    title: "devops – the right way",
+    title: "devops && kubernetes",
     img: "assets/docs/2023-12-2.png",
     url: null,
   },
