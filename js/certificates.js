@@ -20,12 +20,12 @@ const certificates = [
     url: null,
   },
   {
-    title: "devops && kubernetes",
+    title: "right devops && kubernetes",
     img: "assets/docs/2023-12-2.png",
     url: null,
   },
   {
-    title: "data structures && go",
+    title: "data structures with golang",
     img: "assets/docs/2024-10.png",
     url: "https://stepik.org/cert/2599641?lang=en",
   },
